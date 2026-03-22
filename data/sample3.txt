@@ -1,0 +1,8 @@
+Data Structures are specialized formats for organizing and storing data in a computer. 
+They provide a means to manage large amounts of data efficiently. Common data structures 
+include arrays, linked lists, stacks, queues, trees, and graphs. Arrays are collections 
+of elements stored at contiguous locations. Linked lists consist of nodes connected by pointers. 
+Stacks follow a Last-In-First-Out principle. Queues follow a First-In-First-Out principle. 
+Trees are hierarchical data structures. Graphs consist of vertices and edges. The choice of 
+data structure affects the performance of algorithms. Efficient data structures are essential 
+for writing efficient programs.

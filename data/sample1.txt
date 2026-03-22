@@ -1,0 +1,7 @@
+Python is a high-level, interpreted programming language with a focus on code readability. 
+The syntax of Python allows programmers to express concepts in fewer lines of code than would 
+be possible in languages such as C++ or Java. Python supports multiple programming paradigms, 
+including object-oriented, imperative, and functional programming. Python has a comprehensive 
+standard library that provides tools suited to many tasks. The language was designed with 
+developer productivity in mind. Python is widely used in web development, data analysis, 
+artificial intelligence, and scientific computing.

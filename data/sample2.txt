@@ -1,0 +1,8 @@
+Machine Learning is a subset of artificial intelligence that focuses on enabling computers 
+to learn from data without being explicitly programmed. Machine Learning algorithms can be 
+categorized into supervised learning, unsupervised learning, and reinforcement learning. 
+Supervised learning involves training models on labeled data. Unsupervised learning finds 
+patterns in unlabeled data. Reinforcement learning trains agents through trial and error. 
+Popular machine learning frameworks include TensorFlow, PyTorch, and Scikit-learn. Machine 
+Learning is used in recommendation systems, image recognition, natural language processing, 
+and predictive analytics.

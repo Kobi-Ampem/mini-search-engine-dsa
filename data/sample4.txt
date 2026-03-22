@@ -1,0 +1,8 @@
+Web Development involves building and maintaining websites and web applications. Modern web 
+development typically involves frontend technologies like HTML, CSS, and JavaScript. HTML 
+provides the structure of web pages. CSS is used for styling and layout. JavaScript adds 
+interactivity and dynamic behavior. Backend development involves server-side programming 
+using languages like Python, JavaScript, Java, or PHP. Popular web frameworks include Django, 
+Flask, React, Vue, and Angular. Web developers must understand responsive design, accessibility, 
+security, and performance optimization. Full-stack development involves working with both 
+frontend and backend technologies.

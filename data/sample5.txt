@@ -1,0 +1,9 @@
+Algorithms are step-by-step procedures for solving a problem or accomplishing a task. 
+A good algorithm is characterized by correctness and efficiency. Time complexity describes 
+how the running time of an algorithm grows with input size. Space complexity describes the 
+memory used by an algorithm. Big-O notation is used to analyze algorithm complexity. Common 
+algorithm design techniques include divide and conquer, dynamic programming, and greedy 
+algorithms. Sorting algorithms like quicksort and mergesort are fundamental. Searching 
+algorithms like binary search are essential for efficient lookups. Graph algorithms are used 
+for pathfinding and network analysis. String algorithms are used in pattern matching and text 
+processing.
